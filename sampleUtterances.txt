@@ -1,0 +1,15 @@
+AMAZON.NoIntent No
+AMAZON.NoIntent Nope
+AMAZON.NoIntent I am done
+AMAZON.NoIntent nah. I am good
+AMAZON.YesIntent yep
+AMAZON.YesIntent sure thing
+AMAZON.YesIntent uh huh
+AMAZON.YesIntent yes
+AMAZON.YesIntent yeah
+GetLastName {firstName} s last name
+GetLastName last name for {firstName}
+GetLastName what is {firstName} s last name
+GetPhoneNumber {firstName} s phone number
+GetPhoneNumber phone number for {firstName}
+GetPhoneNumber what is {firstName} s phone number
